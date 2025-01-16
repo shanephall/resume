@@ -25,7 +25,6 @@ titles:
   # @end locale config
 key: page-hello
 ---
-# Hello!
 
 I'm Shane Hall, a product and technology leader with a passion for building impactful products and high-performing teams.
 
