@@ -26,15 +26,12 @@ titles:
 key: page-hello
 ---
 
-I'm Shane Hall, a product and technology leader with a passion for building impactful products and high-performing teams.
+I'm Shane Hall, I build websites and software applications. I've worked at startups like Userplane and The Hunt as well as larger companies like AOL, Myspace and Zynga. 
 
-## To make a long story short...
+Lately I have been working a lot with open source language models (in particular small language models) for local agents & server-less deployments.
 
-I studied physics at Cal Poly Pomona and was fortunate to start my career at Userplane, a startup where I cut my teeth helping customers integrate chat apps. Naturally, I began bringing ideas for new features to the engineering team, which led to a full transition into product management. I helped scale the business, working closely with customers and engineering peers to deliver value, ultimately leading to the company’s acquisition by AOL.
+Way back, I studied [Physics](https://doi.org/10.1119/1.4932549) at Cal Poly Pomona. 
 
-After a brief stint at AOL, I was recruited to MySpace by my former Userplane boss to lead product and design for their core offering. From there, I joined Zynga, where I led the relaunch of Zynga.com, scaling it to over 1M daily active users. Next, I joined The Hunt as its first product manager, building out the product and design teams, transitioning the platform to mobile, and launching apps for iOS and Android—all culminating in the company’s acquisition by Pinterest.
-
-Most recently, I joined former Zynga colleagues at Change.org, where I joined as head of mobile and ultimately promoted to product leadership over growth and AI/ML. Along the way, I’ve stayed driven by my innate curiosity, a passion for building products that make a difference, and working closely with talented folks to solve big problems.
 
 ## Let's Connect
 
