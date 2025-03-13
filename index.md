@@ -2,7 +2,7 @@
 layout: article
 titles:
   # @start locale config
-  en      : &EN       👋 Hello
+  en      : &EN       👋 Hi, I’m Shane Hall
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
@@ -25,8 +25,6 @@ titles:
   # @end locale config
 key: page-hello
 ---
-
-👋 Hi, I’m Shane Hall
 
 I build software products, from early-stage startups to scaled platforms. Most recently, I’ve been exploring AI-native applications and local LLMs.
 
